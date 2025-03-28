@@ -16,4 +16,7 @@
 mongo:4.4
 nacos/nacos-server:v2.1.0
 ascdc/jdk8
+bitnami/kafka
+mysql:8.4.3
+meddream/jdk17
 
