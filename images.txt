@@ -15,4 +15,5 @@
 #neo4j:5.26.0-community-bullseye
 mongo:4.4
 nacos/nacos-server:v2.1.0
+ascdc/jdk8
 
